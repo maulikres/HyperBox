@@ -1,0 +1,500 @@
+clinical finding	disease	body structure	malady	disorder	growth	pathology	pathological state	component	medical research	illness	clinical diagnosis	medical diagnosis	malignancy	research
+clinical finding	growth	disease	body structure	function	procedure	pathology	neuron	functions	organ	anatomical structure	protein	healthcare professional	pathological state	medical research
+disease	clinical finding	pathological state	growth	malady	procedure	anomaly	congenital abnormality	body part	congenital malformation	congenital defect	imperfection	state	congenital anomaly	birth defect
+disease	clinical finding	malady	pathological state	sickness	illness	damage	disorder	accidental injury	body structure	growth	pathology	infection	research	injury
+clinical finding	growth	disease	pathological state	body structure	anatomical structure	malady	diagnosing	anatomical pathology	congenital malformation	pathology	function	procedure	research	tumor
+disease	clinical finding	illness	sickness	disorder	pathological state	malady	clinical symptom	state	mental disorder	nervous disorder	neurological disorder	neurological disease	procedure	psychological disorder
+clinical finding	disease	malady	body structure	pathology	growth	function	procedure	pathological state	anatomical pathology	functions	anatomical structure	sickness	illness	defect
+clinical finding	disease	malady	pathological state	congenital malformation	sickness	growth	body structure	pathology	mental disorder	illness	anatomical structure	disorder	neurological disease	medicine
+clinical finding	disease	respiratory disorder	state	degenerative disorder	metabolic disease	sickness	inflammatory disorder	infectious disease	disease of lung	illness	congenital malformation	malady	vascular disease	hereditary disease
+disease	clinical finding	body structure	malady	anatomical structure	growth	organ	anatomical pathology	procedure	medical research	function	pathological state	functions	protein	body part
+clinical finding	growth	anatomical pathology	pathology	function	organ	disease	procedure	antigen	pathological state	body structure	healthcare professional	anatomical structure	enzyme	functions
+disease	clinical finding	anatomical structure	body structure	malady	congenital malformation	growth	procedure	organ	body part	anatomical pathology	function	introduction	pathological state	medical research
+clinical finding	body structure	disease	growth	malady	anatomical structure	organ	function	procedure	protein	functions	pathological state	medical research	pathology	neuron
+clinical finding	disease	pathological state	malady	pathology	disorder	body structure	sickness	illness	lump	growth	infectious disease	clinical symptom	anatomical pathology	infection
+body structure	organ	anatomical structure	growth	clinical finding	function	healthcare professional	procedure	disease	neuron	functions	malady	introduction	medical research	body part
+disease	procedure	function	clinical finding	illness	functions	protein	pathological state	intervention	medical research	research	cardiovascular function	malady	worker	disorder
+disease	clinical finding	disorder	illness	pathological state	sickness	malady	mental disorder	complication	medical science	medical specialty	research	medical research	state	clinical diagnosis
+growth	clinical finding	body structure	disease	procedure	anatomical structure	congenital malformation	anatomical pathology	function	pathological state	joint	malady	lump	medical research	research
+clinical finding	disease	pathological state	malady	growth	sickness	pathology	anatomical pathology	clinical symptom	disorder	antigen	procedure	birth defect	congenital malformation	function
+clinical finding	intervention	procedure	disease	growth	pathological state	function	malady	medical science	research	illness	functions	cardiovascular function	medical procedure	vascular function
+disease	illness	body structure	pathology	clinical finding	sickness	pathological state	malady	anatomical pathology	disorder	procedure	medical research	medical diagnosis	functions	clinical symptom
+pathological state	disease	clinical finding	procedure	healthcare professional	organ	malady	intervention	growth	anatomical pathology	pathology	worker	protein antigen	lump	specialized physician
+procedure	disease	disorder	clinical evaluation	functions	illness	pathological state	diagnosing	pathology	medical research	intervention	diagnosis	medical procedure	clinical diagnosis	clinical finding
+pathological state	disease	clinical finding	malady	congenital malformation	respiratory disorder	hereditary disease	sickness	illness	infectious disease	congenital disease	state	disorder	body structure	disease of lung
+disease	clinical finding	sedation	introduction	procedure	pathological state	malady	decrease	arrest	growth	tumor	ache	administration of substance	therapy	intervention
+intervention	disease	therapeutic procedure	clinical finding	growth	function	body structure	procedure	health care	medical care	enzyme	medical aid	care	functions	worker
+disease	clinical finding	malady	body structure	growth	anatomical structure	organ	neuron	therapeutic procedure	functions	healthcare professional	congenital malformation	birth defect	pathological state	body part
+clinical finding	healthcare professional	disease	anatomical pathology	growth	anatomical structure	medical research	body structure	organ	medical practitioner	malady	worker	neuron	protein	research
+clinical finding	disease	medical research	malady	healthcare professional	growth	intervention	function	procedure	technology	career	medical science	medical practitioner	surgical specialty	worker
+clinical finding	disease	malady	body structure	growth	pathological state	function	anatomical structure	organ	therapeutic procedure	neuron	introduction	protein	functions	procedure
+clinical finding	disease	malady	body structure	anatomical structure	growth	anatomical pathology	pathological state	organ	function	pathology	congenital malformation	introduction	functions	procedure
+clinical finding	disease	body structure	malady	growth	anatomical structure	procedure	anatomical pathology	organ	neuron	healthcare professional	pathological state	function	introduction	functions
+pathological state	drug	therapeutic procedure	medicament	treatment	malady	craniofacial pain	therapy	intervention	antiarrhythmic drug	antiprotozoal	psychological science	antimalarial	medical aid	clinical finding
+body structure	anatomical structure	growth	pathology	organ	procedure	conjunctive tissue	disease	clinical finding	animal tissue	body part	operative site	neuron	connective tissue	medicine
+illness	clinical finding	malady	sickness	disease	state	disorder	pathological state	clinical symptom	nervous disorder	infectious disease	congenital malformation	neurological disorder	cardiac finding	mental disorder
+hurting	drug	sentience	medicament	craniofacial pain	psychological science	antiarrhythmic drug	antimalarial	painful sensation	antiprotozoal	madness	malady	pathological state	clinical finding	sugar
+clinical finding	disease	body structure	growth	malady	anatomical structure	neuron	organ	procedure	healthcare professional	function	introduction	pathological state	protein	nerve cell
+clinical finding	malady	pathological state	disease	illness	sickness	state	growth	stimulation	procedure	mental disorder	clinical symptom	disorder	function	neurological disease
+clinical finding	disease	respiratory disorder	malignant tumor	sickness	disorder	illness	malady	pathological state	abdominal mass	disease of lung	infectious disease	pelvic mass	neurological disease	congenital malformation
+disease	clinical finding	anatomical structure	congenital malformation	body structure	pathology	malady	pathological state	lump	illness	respiratory disorder	sickness	proliferation	accidental injury	defect
+procedure	disease	clinical finding	anatomical structure	growth	body structure	tumor	pathology	anatomical pathology	neoplasm	organ	nerve sheath tumor	lump	proliferation	malady
+medicine	intervention	worker	procedure	disease	malady	healthcare professional	medical procedure	medical science	practice of medicine	specialisation	medical research	specialty	medical specialty	speciality
+clinical finding	disease	pathological state	soft tissue lesion	neurological lesion	malady	chest	congenital malformation	shunt	vein	anatomical structure	illness	branch	hole	state
+disease	procedure	medical research	clinical finding	medicine	research	pathology	malady	body structure	practice of medicine	growth	medical science	pathological state	medical specialty	illness
+clinical finding	body structure	anatomical structure	disease	growth	malady	anatomical pathology	protein	enzyme	organ	function	antigen	healthcare professional	pathological state	pathology
+clinical finding	disease	procedure	malady	growth	body structure	pathological state	function	anatomical structure	functions	sickness	pathology	joint	stimulation	medical science
+clinical finding	body structure	disease	growth	organ	anatomical structure	function	functions	healthcare professional	neuron	medical research	procedure	introduction	therapeutic procedure	protein
+disease	clinical finding	body structure	procedure	congenital malformation	experimental psychology	anatomical structure	drug	intervention	pathological state	therapeutic procedure	pathology	malady	anatomical pathology	growth
+disease	clinical finding	malady	pathological state	illness	sickness	state	disorder	neurological disease	congenital malformation	growth	clinical symptom	painful sensation	body structure	craniofacial pain
+drug	disorder	pharmaceutical drug	medicament	neurological finding	disease	therapy	craniofacial pain	clinical finding	therapeutic procedure	psychological science	neurosis	antimalarial	malady	antiprotozoal
+disease	clinical finding	disorder	respiratory disorder	state	illness	disease of lung	congenital disease	inflammatory disorder	pathological state	infectious disease	sickness	malady	clinical symptom	hereditary disease
+clinical finding	disease	body structure	malady	growth	anatomical structure	organ	procedure	function	healthcare professional	pathological state	protein	medical research	introduction	neuron
+clinical finding	disease	body structure	malady	growth	anatomical structure	procedure	function	healthcare professional	organ	pathological state	anatomical pathology	protein	functions	neuron
+disease	clinical finding	malady	body structure	growth	organ	healthcare professional	anatomical structure	procedure	pathological state	introduction	neuron	therapeutic procedure	function	medical research
+clinical finding	growth	disease	body structure	function	functions	healthcare professional	organ	anatomical structure	procedure	introduction	worker	malady	neuron	somatic cell
+sickness	disease	malady	pathological state	disorder	respiratory disorder	illness	clinical finding	respiratory tract infection	disease of lung	infectious disease	state	inflammatory disorder	hereditary disease	function
+disease	clinical finding	malady	growth	procedure	pathological state	intervention	therapeutic procedure	worker	organ	congenital malformation	pathology	enzyme	drug	anatomical pathology
+disease	malady	clinical finding	neurological disease	illness	neurological disorder	peripheral nerve disease	sickness	pathological state	disorder	nervous disorder	respiratory disorder	degenerative disorder	clinical symptom	state
+clinical finding	disease	malady	body structure	growth	anatomical structure	organ	pathological state	function	neuron	functions	protein	healthcare professional	procedure	medical research
+clinical finding	disease	malady	growth	body structure	anatomical structure	neuron	healthcare professional	procedure	organ	function	medical research	pathological state	functions	protein
+clinical finding	body structure	anatomical structure	disease	growth	organ	neuron	healthcare professional	anatomical pathology	malady	procedure	function	functions	introduction	nerve cell
+clinical finding	disease	malady	anatomical structure	body structure	congenital malformation	anatomical pathology	pathology	growth	lump	pathological state	healthcare professional	neuron	organ	cell
+clinical finding	disease	congenital malformation	growth	malady	pathology	body structure	inflammation	defect	pathological state	anatomical structure	neurological lesion	soft tissue lesion	body region	sickness
+clinical finding	disease	pathological state	malady	sickness	disorder	illness	clinical symptom	state	mental disorder	growth	body structure	pathology	anatomical pathology	lump
+pathological state	medical science	disorder	medical specialty	medicine	disease	illness	malady	clinical finding	practice of medicine	research	sickness	medical research	branch of science	diagnosing
+clinical finding	disease	body structure	malady	growth	anatomical structure	organ	function	pathological state	introduction	functions	neuron	procedure	healthcare professional	medical research
+disease	clinical finding	congenital malformation	body structure	malady	pathological state	anatomical structure	injury	function	nerve sheath tumor	pathology	illness	disorder	sickness	body region
+clinical finding	disease	body structure	growth	pathology	neuron	organ	functions	anatomical structure	function	malady	procedure	pathological state	healthcare professional	nerve cell
+clinical finding	disease	pathological state	malady	congenital malformation	sickness	disorder	growth	body structure	mental disorder	pathology	illness	anatomical structure	antigen	anatomical pathology
+disease	clinical finding	body structure	anatomical structure	malady	growth	organ	neuron	function	medical research	procedure	functions	protein	healthcare professional	pathological state
+procedure	disease	removal	pathology	growth	body material	surgery	implantation	body structure	monitoring procedure	clinical finding	biopsy	grafting procedure	surgical operation	surgical process
+clinical finding	disease	malady	pathological state	pathology	lump	neoplasm	growth	tumor	anatomical structure	malignant tumor	body structure	soft tissue lesion	infectious disease	soft tissue mass
+clinical finding	disease	growth	malady	body structure	function	anatomical structure	pathological state	organ	functions	procedure	medical research	therapeutic procedure	healthcare professional	neuron
+clinical finding	body structure	anatomical structure	disease	procedure	defect	perfusion pump	malady	congenital malformation	function	research	growth	pathological state	functions	nervous system function
+disease	clinical finding	malady	body structure	growth	anatomical structure	procedure	function	pathological state	medical research	organ	functions	protein	healthcare professional	introduction
+disease	clinical finding	pathology	procedure	growth	anatomical pathology	malady	body structure	function	illness	functions	medical research	anatomical structure	clinical evaluation	research
+clinical finding	disease	pathological state	malady	pathology	body structure	disorder	sickness	illness	growth	anatomical pathology	medical diagnosis	clinical diagnosis	clinical symptom	injury
+disease	clinical finding	malady	pathological state	congenital malformation	illness	body structure	pathology	anatomical structure	state	disorder	sickness	hereditary disease	nervous disorder	function
+healthcare professional	worker	medical research	neuron	procedure	growth	medical practitioner	protein	antigen	enzyme	clinical evaluation	intervention	organ	clinical finding	medicine
+malady	disease	clinical finding	pathological state	tumor-associated antigen	sickness	intervention	worker	analyte	procedure	specifications	sugar	folie	fatness	clinical evaluation
+disease	clinical finding	function	pathological state	procedure	cardiovascular function	growth	functions	vascular function	diagnosing	illness	disorder	malady	medical procedure	medical research
+procedure	growth	clinical finding	pathological state	disease	medical procedure	monitoring procedure	clinical evaluation	intervention	removal	biopsy	surgical process	malady	practice of medicine	healthcare professional
+disease	clinical finding	body structure	malady	anatomical structure	congenital malformation	growth	pathology	organ	pathological state	function	healthcare professional	anatomical pathology	neuron	body part
+clinical finding	disease	respiratory disorder	degenerative disorder	metabolic disease	state	sickness	illness	hereditary disease	malady	clinical symptom	neurological disease	infectious disease	disease of lung	inflammation
+procedure	surgical removal	removal	excision	clinical finding	implantation	disease	transplant	body structure	solid organ transplant	transplantation	introduction	growth	anatomical structure	anatomical pathology
+disease	clinical finding	body structure	anatomical structure	congenital malformation	malady	growth	pathology	pathological state	illness	sickness	function	stimulation	organ	medical research
+clinical finding	body structure	disease	anatomical structure	organ	growth	procedure	neuron	healthcare professional	function	pathology	body part	congenital malformation	introduction	malady
+disease	malady	clinical finding	pathological state	disorder	sickness	clinical symptom	state	illness	congenital malformation	craniofacial pain	sentience	painful sensation	hurting	somatosensory system
+disease	clinical finding	anatomical structure	body structure	growth	anatomical pathology	organ	pathology	function	neuron	functions	somatic cell	healthcare professional	pathological state	malady
+anatomical structure	body structure	organ	clinical finding	growth	pathology	disease	healthcare professional	body part	procedure	anatomical pathology	function	malady	medical research	joint
+disease	clinical finding	pathological state	illness	congenital malformation	state	hereditary disease	neurosis	disorder	sickness	congenital disease	malady	stimulation	protein	intervention
+clinical finding	disease	pathological state	illness	sickness	disorder	malady	state	nervous disorder	degenerative disorder	neurological disease	respiratory disorder	clinical symptom	congenital disease	neurological disorder
+sickness	illness	malady	state	pathological state	clinical finding	disease	disorder	congenital malformation	respiratory disorder	vascular disease	neurological disease	degenerative disorder	clinical symptom	nervous disorder
+disease	clinical finding	congenital malformation	malady	anatomical structure	lump	pathological state	body structure	growth	pathology	defect	congenital disease	birth defect	disorder	neurological disease
+clinical finding	disease	malady	pathological state	disorder	craniofacial pain	sentience	drug	therapeutic procedure	procedure	therapy	sickness	hurting	introduction	painful sensation
+clinical finding	disease	growth	body structure	malady	anatomical structure	function	procedure	therapeutic procedure	organ	introduction	protein	medical research	functions	neuron
+disease	clinical finding	pathological state	malady	anatomical structure	body structure	growth	congenital malformation	pathology	organ	state	function	articulation	joint	anatomical pathology
+disease	clinical finding	malady	anatomical structure	congenital malformation	pathological state	body structure	pathology	anatomical pathology	lump	hereditary disease	growth	organ	congenital disease	infectious disease
+malady	disease	body structure	clinical finding	growth	antigen	function	protein	organ	anatomical structure	healthcare professional	procedure	state	pathological state	congenital malformation
+disease	clinical finding	pathological state	malady	congenital malformation	sickness	pathology	disorder	state	anatomical pathology	hereditary disease	procedure	growth	anatomical structure	illness
+disease	clinical finding	malady	body structure	growth	therapeutic procedure	anatomical structure	anatomical pathology	function	organ	healthcare professional	pathological state	functions	introduction	infectious disease
+clinical finding	disease	body structure	malady	growth	anatomical structure	organ	procedure	pathological state	neuron	introduction	function	medical research	healthcare professional	protein
+disease	clinical finding	illness	pathological state	disorder	state	clinical symptom	sickness	malady	hereditary disease	congenital disease	congenital malformation	mental disorder	body structure	pathology
+clinical finding	disease	malady	pathological state	disorder	sickness	pathology	body structure	anatomical pathology	growth	state	illness	clinical symptom	anatomical structure	hereditary disease
+disease	sickness	malady	clinical finding	procedure	illness	disorder	pathological state	stimulation	clinical symptom	function	growth	functions	scale	state
+disease	clinical finding	respiratory disorder	state	sickness	illness	cardiopathy	infectious disease	malady	metabolic disease	neurological disease	vascular disease	degenerative disorder	disease of lung	clinical symptom
+clinical finding	disease	procedure	pathology	malady	function	pathological state	stimulation	disturbance	congenital malformation	sickness	growth	anatomical pathology	functions	illness
+clinical finding	disease	malady	congenital malformation	congenital disease	pathological state	infectious disease	respiratory disorder	pathology	disease of lung	injury	hereditary disease	lump	body structure	soft tissue lesion
+research	medical research	specialization	specialty	medicine	medical science	practice of medicine	medical specialty	specialisation	specialism	speciality	branch of science	career	disorder	disease
+clinical finding	disease	malady	sickness	pathological state	respiratory disorder	state	nervous disorder	illness	disorder	infectious disease	hereditary disease	neurological disease	congenital disease	clinical symptom
+clinical finding	disease	body structure	anatomical structure	growth	malady	organ	pathological state	protein	function	anatomical pathology	procedure	functions	introduction	medical research
+clinical finding	disease	malady	growth	body structure	organ	function	anatomical structure	healthcare professional	neuron	therapeutic procedure	pathological state	functions	procedure	anatomical pathology
+malady	clinical finding	disease	anatomical structure	body structure	congenital malformation	healthcare professional	anatomical pathology	state	pathological state	growth	function	pathology	body part	organ
+clinical finding	procedure	pathological state	disease	function	malady	antigen	decrease	sickness	functions	state	growth	removal	clinical symptom	illness
+state	pathological state	clinical finding	procedure	disease	respiratory disorder	illness	pelvic mass	tumor	growth	body part	birth defect	blood	disorder	body region
+body structure	clinical finding	disease	pathology	growth	anatomical pathology	lump	malady	medical research	disorder	procedure	malignancy	neoplasm	pathological state	research
+disease	healthcare professional	malady	medical practitioner	clinical finding	worker	growth	organ	medical research	anatomical structure	neuron	function	congenital malformation	procedure	pathological state
+disease	clinical finding	malady	peripheral nerve disease	pathological state	infectious disease	clinical symptom	neurological disease	respiratory disorder	sickness	illness	hereditary disease	state	disorder	metabolic disease
+disease	body structure	pathology	illness	clinical finding	sickness	pathological state	malady	disorder	procedure	anatomical pathology	medical research	medical diagnosis	functions	clinical symptom
+clinical finding	disease	organ	malady	procedure	anatomical pathology	body structure	pathology	growth	anatomical structure	function	pathological state	protein	enzyme	neuron
+clinical finding	malady	disease	pathological state	body structure	neoplasm	anatomical structure	pathology	proliferation	illness	sickness	disorder	lump	growth	medical research
+clinical finding	disease	anatomical structure	body structure	growth	head part	animal tissue	pathology	body part	malady	anatomical pathology	organ	connective tissue	bone	neural structure
+pathological state	clinical finding	state	disease	disorder	malady	illness	sickness	neurological finding	congenital malformation	clinical symptom	body structure	craniofacial pain	painful sensation	pathology
+clinical finding	malady	damage	disease	pathological state	sickness	clinical symptom	body structure	function	illness	disorder	procedure	growth	pathology	stimulation
+clinical finding	disease	malady	congenital malformation	anatomical structure	pathological state	lump	growth	body structure	illness	pathology	state	neurological disease	sickness	organ
+clinical finding	disease	sickness	clinical symptom	disorder	malady	pathological state	illness	neurological disease	state	neurological disorder	nervous disorder	mental disorder	congenital malformation	craniofacial pain
+clinical finding	disease	anatomical structure	malady	body structure	organ	growth	healthcare professional	procedure	birth defect	anatomical pathology	pathology	introduction	medical practitioner	pathological state
+clinical finding	function	disease	bodily function	organ	procedure	worker	functions	body structure	cardiovascular function	physician	healthcare professional	medical practitioner	malady	anatomical structure
+clinical finding	disease	respiratory disorder	sickness	clinical symptom	pathological state	disease of lung	malady	disorder	infectious disease	illness	state	inflammatory disorder	craniofacial pain	body structure
+clinical finding	malady	disease	pathological state	sickness	clinical symptom	disorder	illness	state	craniofacial pain	neurosis	mental disorder	administration of medication	neurological disorder	congenital malformation
+clinical finding	disease	anatomical structure	malady	body structure	growth	congenital malformation	pathology	organ	neuron	pathological state	body part	function	functions	procedure
+clinical finding	disease	degenerative disorder	respiratory disorder	disease of lung	metabolic disease	infectious disease	inflammatory disorder	inflammation	craniofacial pain	brain injury	vascular disease	neuropathy	peripheral nerve disease	cardiac finding
+clinical finding	disease	body structure	anatomical structure	malady	growth	organ	function	pathological state	medical research	neuron	procedure	therapeutic procedure	anatomical pathology	healthcare professional
+clinical finding	disease	neurological finding	disorder	craniofacial pain	malady	pathological state	sickness	illness	sentience	mentation	hurting	mental disorder	painful sensation	neurological disorder
+clinical finding	disease	function	pathological state	malady	defect	growth	functions	sickness	neuropathy	stimulation	disorder	procedure	mental disorder	cardiovascular function
+disease	clinical finding	malady	anatomical structure	body structure	growth	anatomical pathology	organ	neuron	pathological state	function	protein	medical research	introduction	functions
+clinical finding	disease	malady	illness	pathological state	sickness	clinical symptom	disorder	congenital disease	infectious disease	congenital malformation	pathology	neurological disease	hereditary disease	state
+clinical finding	body structure	disease	malady	growth	organ	anatomical structure	healthcare professional	function	medical research	procedure	anatomical pathology	protein	functions	therapeutic procedure
+clinical finding	disease	respiratory disorder	pathological state	sickness	injury	malady	kidney disease	illness	infectious disease	soft tissue lesion	metabolic disease	renal failure	vascular disease	peripheral nerve disease
+clinical finding	disease	anatomical structure	body structure	growth	pathological state	congenital malformation	malady	pathology	anatomical pathology	defect	function	joint	sickness	illness
+clinical finding	body structure	growth	disease	anatomical structure	function	functions	organ	neuron	malady	procedure	somatic cell	therapeutic procedure	medical research	healthcare professional
+disease	clinical finding	malady	pathological state	disorder	sickness	illness	pathology	body structure	cardiovascular function	functions	damage	clinical symptom	state	vascular function
+disease	clinical finding	pathological state	malady	congenital disease	congenital malformation	hereditary disease	anatomical structure	pathology	body structure	lump	infectious disease	growth	disease of lung	state
+disease	clinical finding	respiratory disorder	illness	infectious disease	malady	sickness	clinical symptom	pathological state	disorder	degenerative disorder	neurological disease	metabolic disease	state	disease of lung
+disease	clinical finding	body structure	malady	growth	organ	healthcare professional	function	anatomical structure	neuron	procedure	worker	congenital malformation	medical research	functions
+anatomical structure	body structure	growth	pathology	clinical finding	organ	body part	procedure	disease	neuron	protein	cell	nerve cell	branch of science	function
+disease	healthcare professional	clinical finding	neuron	worker	procedure	medical practitioner	intervention	medical research	therapeutic procedure	pathology	growth	organ	medical care	care
+disease	clinical finding	anatomical structure	malady	body structure	congenital malformation	growth	anatomical pathology	body part	pathological state	organ	lump	introduction	neuron	functions
+disease	clinical finding	body structure	malady	congenital malformation	growth	infectious disease	anatomical structure	pathological state	infection	function	organ	healthcare professional	pathology	congenital disease
+disease	clinical finding	malady	anatomical structure	body structure	growth	pathology	procedure	pathological state	organ	facial dysmorphism	medical research	anatomical pathology	healthcare professional	protein
+clinical finding	growth	anatomical structure	body structure	disease	transplant	transplantation	malady	pathological state	congenital malformation	anatomical pathology	removal	pathology	procedure	function
+clinical finding	disease	malady	pathological state	protein antigen	procedure	sickness	growth	disorder	illness	pathology	medicine	body structure	drug	state
+disease	clinical finding	growth	malady	body structure	healthcare professional	procedure	organ	anatomical structure	medical research	function	neuron	worker	functions	protein
+clinical finding	disease	malady	body structure	growth	anatomical structure	function	organ	procedure	medical research	functions	introduction	protein	healthcare professional	neuron
+disease	clinical finding	state	sickness	neurological disease	illness	nervous disorder	inflammation	peripheral nerve disease	malady	neuropathy	neurological disorder	pathological state	somatic sensation	mental illness
+clinical finding	malady	disease	pathological state	congenital malformation	craniofacial pain	metabolism	sickness	growth	drug	psychological science	treatment	injury	illness	sentience
+disease	clinical finding	malady	body structure	anatomical structure	growth	congenital malformation	organ	pathological state	pathology	anatomical pathology	body part	healthcare professional	introduction	function
+medical research	disease	research	anatomical pathology	pathology	disorder	malady	clinical finding	pathological state	illness	sickness	functions	body structure	clinical diagnosis	medicine
+procedure	function	medical procedure	cardiovascular function	surgical process	clinical finding	body structure	surgery	functions	surgical operation	disease	research	vascular function	practice of medicine	branch of science
+intervention	attention	treatment	aid	health care	therapy	care	medical aid	medicine	therapeutic procedure	medical care	practice of medicine	medical science	specialization	pediatric medicine
+clinical finding	disease	malady	body structure	growth	anatomical structure	organ	body part	congenital malformation	healthcare professional	pathological state	protein	medical research	neuron	procedure
+disease	clinical finding	congenital malformation	body structure	congenital disease	respiratory disorder	soft tissue lesion	illness	vascular disease	state	malady	disorder	pathological state	hereditary disease	clinical symptom
+disease	clinical finding	body structure	anatomical structure	malady	pathology	growth	anatomical pathology	pathological state	function	healthcare professional	organ	functions	procedure	medical research
+procedure	clinical evaluation	clinical finding	medical research	pathological state	diagnosing	growth	disease	intervention	hearing test	practice of medicine	malady	medical procedure	medicine	research
+disease	illness	clinical finding	pathological state	clinical symptom	sickness	disorder	malady	state	painful sensation	sentience	hurting	ache	pain sensation	aching
+growth	disease	clinical finding	defect	neuron	birth defect	protein	pathological state	damage	congenital malformation	infection	functions	function	worker	enzyme
+clinical finding	pathological state	growth	disease	procedure	malady	medical procedure	medicine	research	practice of medicine	functions	diagnosing	surgery	medical research	clinical symptom
+clinical finding	disease	malady	intervention	pathological state	growth	medical research	enzyme	body structure	worker	procedure	sugar	therapeutic procedure	pathology	introduction
+body structure	disease	clinical finding	growth	malady	anatomical structure	organ	function	introduction	procedure	functions	therapeutic procedure	healthcare professional	neuron	medical research
+clinical finding	disease	growth	pathological state	procedure	anatomical pathology	pathology	anatomical structure	organ	congenital malformation	malady	body structure	birth defect	head part	defect
+disease	clinical finding	pathological state	growth	therapy	pathology	worker	anatomical pathology	lump	aid	medical research	therapeutic procedure	healthcare professional	mentation	physician
+clinical finding	disease	malady	body structure	growth	therapeutic procedure	pathological state	function	functions	healthcare professional	introduction	procedure	protein	anatomical structure	infection
+disease	body structure	clinical finding	growth	malady	function	organ	anatomical structure	procedure	functions	healthcare professional	neuron	introduction	body part	pathological state
+disease	clinical finding	medical science	malady	research	medical specialty	medicine	medical research	disorder	pathological state	branch of science	sickness	practice of medicine	illness	lesion
+clinical finding	disease	body structure	growth	anatomical structure	malady	procedure	organ	neuron	function	functions	introduction	therapeutic procedure	healthcare professional	medical research
+disease	clinical finding	congenital malformation	growth	procedure	malady	pathology	body structure	function	protein	intervention	antigen	medical research	organ	bodily function
+clinical finding	pathological state	disease	malady	disorder	state	clinical symptom	sickness	nervous disorder	illness	mental disorder	neurological disorder	stimulation	neurological disease	damage
+anatomical structure	disease	clinical finding	body structure	growth	procedure	malady	organ	body part	pathology	introduction	neuron	function	functions	therapeutic procedure
+procedure	body structure	pathology	anatomical structure	growth	anatomical pathology	disease	body material	clinical finding	surgical material	removal	organ	fenestration	grafting procedure	graft
+disease	clinical finding	disease of lung	respiratory disorder	metabolic disease	degenerative disorder	infectious disease	vascular disease	pulmonary disease	inflammatory disorder	hereditary disease	sickness	illness	neuropathy	peripheral nerve disease
+disease	body structure	clinical finding	growth	organ	procedure	function	anatomical structure	functions	malady	neuron	protein	enzyme	therapeutic procedure	pathological state
+disease	clinical finding	malady	respiratory disorder	congenital malformation	pathological state	hereditary disease	vascular disease	congenital disease	sickness	soft tissue lesion	state	infectious disease	disorder	disease of lung
+disease	clinical finding	pathological state	malignant tumor	malady	cancer	abdominal mass	growth	tumor	neoplasm	disorder	body part	congenital malformation	respiratory disorder	hamartoma
+disease	clinical finding	respiratory disorder	infectious disease	peripheral nerve disease	neuropathy	inflammatory disorder	inflammation	degenerative disorder	disease of lung	sickness	cardiac finding	illness	disorder	state
+clinical finding	pathological state	disease	sickness	disorder	malady	state	illness	clinical symptom	respiratory disorder	degenerative disorder	neurological disease	nervous disorder	neurological disorder	congenital malformation
+clinical finding	disease	malady	lump	pathology	anatomical pathology	growth	organ	pathological state	anatomical structure	procedure	body structure	function	joint	medical research
+protein	enzyme	polymer	medical research	hydrolase	disease	macromolecule	function	antigen	biopolymer	bond	neuron	procedure	biomolecule	attraction
+clinical finding	disease	clinical symptom	sickness	malady	pathological state	illness	disorder	state	growth	anatomical structure	medical diagnosis	clinical diagnosis	congenital malformation	pathology
+therapeutic procedure	clinical finding	disease	malady	pathological state	medical aid	psychological science	body part	experimental psychology	body structure	anatomical structure	drug	congenital malformation	worker	organ
+clinical finding	disease	pathological state	metabolism	anatomical structure	malady	hurting	sentience	infectious disease	congenital malformation	defect	body structure	procedure	congenital abnormality	imperfection
+clinical finding	disease	clinical symptom	sickness	respiratory disorder	disorder	pathological state	illness	malady	syndrome	hereditary disease	congenital disease	state	inflammation	infectious disease
+clinical finding	clinical symptom	disease	nervous disorder	function	state	therapy	sensation	disorder	mental disorder	therapeutic procedure	malady	pathological state	craniofacial pain	stimulation
+procedure	functions	practice of medicine	research	medical research	medicine	medical science	medical specialty	intervention	branch of science	disease	function	medical procedure	clinical finding	specialism
+disease	clinical finding	malady	body structure	anatomical structure	growth	organ	pathology	pathological state	congenital malformation	healthcare professional	medical research	function	neuron	body part
+clinical finding	disease	malady	disorder	pathological state	sickness	illness	craniofacial pain	disturbance	painful sensation	clinical symptom	mental disturbance	intervention	mental disorder	therapy
+growth	clinical finding	function	organ	body structure	procedure	functions	healthcare professional	disease	anatomical structure	protein	neuron	introduction	vasculature	somatic cell
+clinical finding	disease	pathology	body structure	malady	anatomical structure	growth	pathological state	nerve sheath tumor	anatomical pathology	congenital malformation	lump	medical research	medical science	soft tissue lesion
+disease	clinical finding	malady	growth	body structure	function	therapeutic procedure	anatomical structure	functions	infection	introduction	protein	intervention	worker	macromolecule
+clinical finding	disease	pathological state	disorder	malady	sickness	illness	pathology	state	anatomical structure	lump	body structure	respiratory disorder	type of vessel	clinical symptom
+disease	clinical finding	growth	body structure	healthcare professional	anatomical structure	malady	procedure	function	worker	anatomical pathology	pathological state	protein	organ	introduction
+clinical finding	disease	growth	pathological state	malady	function	defect	functions	body structure	antigen	anatomical structure	protein	procedure	birth defect	cardiovascular function
+disease	clinical finding	anatomical structure	body structure	malady	pathology	procedure	lump	anatomical pathology	growth	healthcare professional	protein	organ	function	neuron
+disease	clinical finding	disorder	sickness	malady	pathological state	illness	state	respiratory disorder	craniofacial pain	ache	nervous disorder	neurological disorder	sentience	hurting
+functions	medicine	medical research	practice of medicine	service	research	specialization	specialty	medical science	medical specialty	disease	career	procedure	specialisation	speciality
+clinical finding	disease	pathological state	sickness	malady	illness	disorder	state	clinical symptom	neurological disease	congenital malformation	respiratory disorder	nervous disorder	congenital disease	hereditary disease
+disease	clinical finding	malady	anatomical structure	body structure	growth	congenital malformation	pathological state	organ	function	body part	therapeutic procedure	medical research	introduction	pathology
+disease	clinical finding	respiratory disorder	inflammation	disease of lung	infectious disease	state	peripheral nerve disease	sickness	illness	disorder	degenerative disorder	neuropathy	neurological disease	neurosis
+clinical finding	disease	growth	pathological state	pathology	malady	body structure	anatomical structure	anatomical pathology	sickness	urologic disease	tumor	lump	disorder	congenital malformation
+bone	body structure	anatomical structure	body region	vein	soft tissue lesion	clinical finding	disease	chest	vascular system	soft tissue mass	pathology	congenital malformation	organ	hole
+pathological state	clinical finding	disease	malady	illness	hurting	sentience	painful sensation	sickness	body structure	growth	craniofacial pain	anatomical structure	cerebration	mentation
+clinical finding	disease	body structure	malady	growth	anatomical structure	function	organ	neuron	healthcare professional	pathological state	pathology	congenital malformation	introduction	procedure
+disease	clinical finding	malady	body structure	growth	anatomical structure	organ	congenital malformation	pathological state	neuron	medical research	therapeutic procedure	procedure	healthcare professional	introduction
+disease	clinical finding	malady	pathological state	disorder	function	clotting	disturbance	congenital malformation	blood coagulation	body part	chamber	procedure	state	procoagulant
+disease	clinical finding	abdominal mass	metastatic tumor	cancer	malignant tumor	malignancy	metastasis	pelvic mass	tumor	anatomical structure	respiratory disorder	disease of lung	growth	nerve sheath tumor
+clinical finding	malady	pathological state	disease	congenital malformation	anatomical structure	body structure	anatomical pathology	pathology	growth	sickness	state	lump	infectious disease	function
+disease	clinical finding	body structure	malady	growth	anatomical structure	organ	healthcare professional	function	functions	therapeutic procedure	medical research	introduction	neuron	pathological state
+pathological state	disease	clinical finding	malady	birth defect	congenital disease	congenital malformation	growth	hereditary disease	anatomical structure	anatomical pathology	body structure	pathology	procedure	lump
+clinical finding	disease	body structure	growth	pathology	procedure	malady	congenital malformation	pathological state	birth defect	function	anatomical structure	defect	somatic cell	introduction
+disease	clinical finding	body structure	malady	growth	anatomical structure	organ	pathological state	procedure	pathology	function	protein	medical research	neuron	healthcare professional
+anatomical structure	body structure	clinical finding	disease	pathology	malady	defect	organ	procedure	growth	anatomical pathology	pathological state	surgical material	removal	lump
+clinical finding	disease	pathological state	malady	illness	sickness	neurological disease	disorder	growth	body structure	pathology	nervous disorder	anatomical pathology	clinical symptom	state
+disease	clinical finding	sickness	malady	disorder	pathological state	illness	respiratory disorder	growth	state	tumor	degenerative disorder	clinical symptom	hereditary disease	congenital disease
+procedure	clinical evaluation	function	medical procedure	functions	clinical finding	intervention	therapeutic procedure	disease	medical research	neuron	somatic cell	cardiovascular function	cell	introduction
+disease	illness	clinical finding	pathological state	sickness	malady	disorder	pathology	body structure	clinical diagnosis	clinical symptom	medical diagnosis	injury	medical research	growth
+malady	clinical finding	disease	pathological state	anatomical structure	body structure	hereditary disease	disease of lung	congenital malformation	pathology	growth	lump	anatomical pathology	function	congenital disease
+disease	clinical finding	pathological state	malady	anatomical structure	congenital malformation	body structure	pathology	growth	anatomical pathology	sickness	illness	disorder	procedure	stimulation
+disease	clinical finding	malady	congenital malformation	body structure	anatomical structure	growth	pathology	pathological state	anatomical pathology	function	organ	protein	therapeutic procedure	procedure
+clinical finding	disease	intervention	congenital malformation	worker	body structure	organ	procedure	introduction	malady	enzyme	healthcare professional	pathological state	tumor-associated antigen	body part
+disease	clinical finding	malady	growth	intervention	procedure	pathological state	organ	disorder	antigen	sickness	therapeutic procedure	protein antigen	medical research	function
+disease	clinical finding	state	pathological state	disorder	clinical symptom	malady	sickness	neurosis	drug	inflammation	respiratory disorder	illness	hamartoma	growth
+malady	pathological state	disease	clinical finding	growth	sickness	disturbance	illness	healthcare professional	intervention	worker	pathology	anatomical pathology	mental disturbance	medical research
+clinical finding	disease	body structure	anatomical structure	growth	malady	organ	anatomical pathology	pathological state	function	protein	neuron	procedure	functions	medical research
+clinical finding	disease	malady	body structure	growth	healthcare professional	pathology	pathological state	procedure	protein	function	organ	anatomical structure	medical practitioner	neuron
+clinical finding	body structure	disease	growth	malady	pathological state	organ	healthcare professional	anatomical structure	procedure	function	neuron	protein	functions	anatomical pathology
+clinical finding	disease	pathological state	malady	growth	sickness	illness	disorder	congenital malformation	abdominal mass	mental disorder	clinical symptom	malignant tumor	anatomical structure	state
+disease	growth	clinical finding	body structure	anatomical structure	function	organ	functions	procedure	malady	protein	cardiovascular function	body part	birth defect	defect
+disease	clinical finding	body structure	organ	malady	pathology	anatomical structure	growth	procedure	pathological state	congenital malformation	introduction	function	neuron	head part
+clinical finding	disease	respiratory disorder	pathological state	malady	sickness	illness	state	malignancy	congenital malformation	inflammatory disorder	familial disease	hereditary disease	congenital disease	soft tissue lesion
+pathological state	clinical finding	malady	disease	body structure	illness	state	sickness	anatomical structure	function	enzyme	disturbance	disorder	growth	intervention
+clinical finding	disease	anatomical structure	body structure	pathology	anatomical pathology	growth	procedure	introduction	malady	organ	pathological state	neuron	function	congenital malformation
+procedure	clinical evaluation	disease	malady	intervention	sickness	disorder	clinical finding	state	illness	pathological state	scale	stimulation	liver disease	medical research
+medical research	disease	clinical finding	disorder	anatomical pathology	pathology	growth	malady	research	pathological state	illness	body structure	functions	damage	barrier
+clinical finding	disease	growth	pathological state	worker	procedure	function	healthcare professional	malady	medical research	enzyme	therapeutic procedure	anatomical pathology	research	anatomical structure
+disease	clinical finding	body structure	healthcare professional	worker	medical practitioner	malady	social scientist	congenital malformation	intervention	growth	organ	function	therapeutic procedure	anatomical structure
+clinical finding	disease	malady	anatomical structure	body structure	growth	pathological state	congenital malformation	anatomical pathology	function	organ	introduction	body part	procedure	pathology
+clinical finding	disease	malady	anatomical structure	body structure	growth	procedure	organ	medical research	pathological state	anatomical pathology	function	healthcare professional	therapeutic procedure	joint
+disease	sickness	malady	clinical finding	illness	disorder	pathological state	state	clinical symptom	stimulation	mental disorder	growth	pathology	body structure	liver disease
+clinical finding	disease	craniofacial pain	disorder	illness	pain	headache disorder	state	sensation	nervous disorder	sickness	pathological state	malady	sense	clinical symptom
+clinical finding	respiratory disorder	state	disease	pathological state	growth	malady	soft tissue lesion	body region	vascular disease	body structure	function	clinical symptom	procedure	venous occlusion
+clinical finding	disease	anatomical structure	malady	body structure	growth	pathology	anatomical pathology	procedure	body part	organ	pathological state	introduction	therapeutic procedure	experimental psychology
+clinical finding	disease	congenital malformation	pathological state	congenital disease	malady	organ	birth defect	body structure	growth	pathology	metabolism	anatomical structure	procedure	function
+pathology	body structure	disease	clinical finding	growth	type of vessel	anatomical structure	malady	anatomical pathology	function	research	damage	pathological state	procedure	organ
+clinical finding	disease	intervention	therapeutic procedure	worker	medical aid	psychological science	pathological state	aid	growth	procedure	drug	malady	tending	body structure
+clinical finding	disease	body structure	anatomical structure	growth	malady	organ	function	procedure	pathological state	protein	healthcare professional	anatomical pathology	functions	medical research
+disease	clinical finding	growth	body structure	enzyme	malady	function	antigen	anatomical structure	healthcare professional	organ	pathological state	procedure	cell	functions
+clinical finding	disease	cardiopathy	sickness	state	illness	disorder	pathological state	malady	clinical symptom	respiratory disorder	inflammation	neurological disease	inflammatory disorder	nervous disorder
+pathological state	clinical finding	disease	malady	disorder	sickness	craniofacial pain	therapy	state	intervention	drug	antiprotozoal	treatment	worker	sentience
+clinical finding	disease	body structure	malady	growth	procedure	anatomical structure	organ	function	healthcare professional	neuron	pathological state	pathology	introduction	functions
+clinical finding	growth	disease	organ	body structure	function	anatomical structure	healthcare professional	functions	procedure	neuron	malady	introduction	pathological state	enzyme
+clinical finding	disease	malady	anatomical structure	body structure	growth	organ	pathology	pathological state	lump	facial dysmorphism	anatomical pathology	procedure	function	body part
+disease	malady	sickness	pathological state	illness	disorder	clinical finding	medical research	state	research	pathology	physician	component	medical science	functions
+growth	damage	disease	function	clinical finding	malady	pathological state	functions	cardiovascular function	vascular function	research	body structure	disorder	scale	procedure
+disease	clinical finding	body structure	anatomical structure	malady	congenital malformation	pathological state	growth	procedure	organ	birth defect	lump	injury	function	infectious disease
+disease	clinical finding	respiratory disorder	congenital malformation	infectious disease	disease of lung	infection	inflammation	malady	soft tissue lesion	hereditary disease	vascular disease	peripheral nerve disease	damage	body structure
+clinical finding	disease	anatomical structure	body structure	malady	congenital malformation	growth	anatomical pathology	pathological state	procedure	organ	pathology	function	body part	medical research
+disease	clinical finding	congenital malformation	respiratory disorder	hereditary disease	injury	congenital disease	inflammatory disorder	illness	disease of lung	inflammation	sickness	state	infectious disease	damage
+malady	sickness	disease	clinical finding	disorder	mental disorder	pathological state	illness	clinical symptom	neurological disorder	nervous disorder	lump	neurological disease	psychosis	body structure
+disease	clinical finding	congenital malformation	malady	body structure	pathological state	macromolecule	growth	anatomical structure	biopolymer	biomolecule	intervention	infectious disease	state	organ
+pathological state	malady	clinical finding	growth	disease	function	sickness	anatomical structure	body structure	infectious disease	procedure	somatic cell	healthcare professional	illness	introduction
+clinical finding	disease	malady	lump	growth	congenital malformation	pathological state	anatomical structure	pathology	body structure	neuroma	soft tissue lesion	neoplasm	infection	defect
+clinical finding	disease	malady	anatomical structure	body structure	growth	pathology	anatomical pathology	pathological state	lump	function	congenital malformation	procedure	organ	healthcare professional
+disease	malady	pathological state	clinical finding	sickness	growth	illness	disorder	congenital malformation	neurological disease	anatomical structure	state	pathology	body structure	mental disorder
+clinical finding	body structure	disease	growth	anatomical structure	healthcare professional	organ	functions	function	procedure	introduction	worker	neuron	medical practitioner	malady
+body structure	pathology	clinical finding	disease	malady	anatomical structure	nerve sheath tumor	proliferation	procedure	body region	pathological state	defect	growth	organ	surgical material
+disease	clinical finding	malady	pathological state	sickness	inflammation	congenital malformation	state	neurological disease	illness	disorder	respiratory disorder	ache	clinical symptom	craniofacial pain
+clinical finding	malady	disease	pathological state	congenital malformation	anatomical structure	lump	pathology	anatomical pathology	body structure	growth	sickness	organ	disease of lung	malignancy
+clinical finding	disease	growth	body structure	anatomical structure	function	malady	functions	organ	procedure	neuron	therapeutic procedure	healthcare professional	somatic cell	protein
+disease	clinical finding	malady	congenital malformation	body structure	anatomical structure	pathology	growth	anatomical pathology	pathological state	procedure	introduction	organ	neuron	function
+sickness	disease	malady	clinical finding	pathological state	illness	respiratory disorder	disorder	disease of lung	clinical symptom	state	infectious disease	craniofacial pain	sentience	hurting
+clinical finding	malady	disease	pathological state	respiratory disorder	infectious disease	congenital malformation	sickness	disease of lung	pathology	soft tissue lesion	illness	neurological disease	neoplasm	malignant tumor
+drug	disease	clinical finding	malady	therapeutic procedure	pathological state	craniofacial pain	growth	disorder	sickness	sugar	food allergen	antigen	pain	procoagulant
+clinical finding	disease	body structure	growth	function	anatomical structure	malady	functions	therapeutic procedure	organ	introduction	healthcare professional	procedure	protein	neuron
+drug	clinical finding	disease	craniofacial pain	disorder	malady	illness	sickness	clinical symptom	sedation	painful sensation	pathological state	sentience	hurting	cerebration
+clinical finding	malady	disease	pathological state	disorder	sickness	illness	congenital malformation	craniofacial pain	state	infectious disease	drug	hereditary disease	painful sensation	higher cognitive process
+disease	clinical finding	illness	pathological state	malady	disorder	sickness	clinical symptom	function	nervous disorder	neurological disease	mental disorder	pathology	neuropathy	mental illness
+disease	clinical finding	malady	respiratory disorder	pathological state	hereditary disease	congenital malformation	infectious disease	congenital disease	sickness	illness	disease of lung	neurological disease	disorder	lump
+clinical finding	disease	malady	congenital malformation	body structure	pathological state	growth	anatomical structure	pathology	function	organ	infection	articulation	antigen	neurological lesion
+clinical finding	growth	organ	body structure	anatomical structure	procedure	disease	function	pathological state	protein	functions	medical research	healthcare professional	birth defect	neural structure
+disease	clinical finding	sickness	illness	pathological state	respiratory disorder	malady	disorder	disease of lung	degenerative disorder	diabetes	state	nephropathy	metabolic disease	infectious disease
+intervention	practice of medicine	medical research	disease	worker	research	clinical finding	functions	nurse	medicine	medical science	procedure	medical specialty	career	specialty
+disease	clinical finding	malady	body structure	growth	anatomical structure	organ	function	procedure	introduction	functions	protein	pathological state	therapeutic procedure	medical research
+anatomical structure	body structure	disease	clinical finding	organ	vascular system	congenital malformation	pathology	anatomical pathology	procedure	growth	malady	function	nerve sheath tumor	damage
+clinical finding	disease	body structure	growth	malady	organ	anatomical structure	function	functions	healthcare professional	neuron	somatic cell	procedure	medical research	pathological state
+disease	clinical finding	growth	body structure	malady	function	enzyme	procedure	protein	antigen	anatomical structure	functions	organ	pathological state	healthcare professional
+clinical finding	pathological state	disorder	disease	sickness	malady	state	illness	clinical symptom	mental disorder	craniofacial pain	painful sensation	hurting	sentience	cerebration
+clinical finding	disease	procedure	implant	technology	function	pathological state	functions	malady	healthcare professional	worker	vascular function	damage	surgery	growth
+disease	clinical finding	growth	malady	body structure	anatomical structure	organ	function	introduction	neuron	functions	somatic cell	therapeutic procedure	medical research	pathological state
+clinical finding	disease	malady	pathological state	growth	congenital malformation	body structure	function	healthcare professional	somatic cell	medical research	organ	macromolecule	anatomical structure	infectious disease
+function	pathological state	malady	stimulation	clinical finding	state	disease	sickness	illness	inhibition	defect	drug	congenital malformation	fatness	specifications
+clinical finding	disease	body structure	malady	growth	healthcare professional	function	organ	anatomical structure	functions	neuron	procedure	introduction	worker	therapeutic procedure
+disease	clinical finding	illness	malady	disorder	pathological state	sickness	function	clinical symptom	intervention	procedure	protein	neurological disorder	mental disorder	growth
+medical research	disease	clinical finding	malady	transplant	pathological state	lump	intervention	transplantation	pathology	protein	surgical specialty	growth	anatomical pathology	implantation
+disease	procedure	medical procedure	intervention	surgery	clinical diagnosis	diagnosis	medical diagnosis	malady	pathology	sickness	illness	clinical evaluation	worker	surgical procedure
+clinical finding	disease	growth	body structure	malady	function	functions	anatomical structure	pathological state	organ	somatic cell	therapeutic procedure	introduction	protein	neuron
+disease	branch	clinical finding	stenosis	shunt	chest	type of vessel	body structure	nerve sheath tumor	vessel	soft tissue lesion	artery	vasculature	respiratory disorder	aneurysm
+disease	therapeutic procedure	body structure	drug	malady	clinical finding	worker	intervention	medicament	growth	medical aid	function	enzyme	pathological state	health care
+disease	clinical finding	malady	pathological state	respiratory disorder	illness	disorder	sickness	craniofacial pain	neurological finding	neurological disease	infectious disease	ache	painful sensation	aching
+disease	clinical finding	illness	malady	disorder	pathological state	sickness	craniofacial pain	state	sentience	hurting	respiratory disorder	ache	painful sensation	infectious disease
+growth	body structure	anatomical structure	clinical finding	introduction	organ	disease	function	procedure	neuron	anatomical pathology	functions	head part	body part	therapeutic procedure
+clinical finding	disease	sickness	malady	pathological state	illness	neurological disorder	nervous disorder	psychosis	mental disorder	clinical symptom	neurological disease	disorder	mental illness	state
+disease	illness	clinical finding	sickness	disorder	neurological disease	malady	pathological state	neurological disorder	clinical symptom	nervous disorder	state	headache disorder	mental disorder	inflammatory disorder
+disease	clinical finding	malady	pathological state	growth	congenital malformation	body structure	function	anatomical structure	joint	organ	functions	anatomical pathology	pathology	cardiovascular function
+disease	clinical finding	respiratory disorder	illness	craniofacial pain	sickness	inflammatory disorder	disease of lung	malady	infectious disease	vascular disease	hereditary disease	neurological disease	clinical symptom	neurological finding
+illness	clinical finding	disease	sickness	pathological state	state	malady	clinical symptom	neurological disease	nervous disorder	neurological disorder	respiratory disorder	disease of lung	disorder	infectious disease
+clinical finding	anatomical structure	disease	body structure	procedure	organ	growth	pathological state	removal	malady	tumor	clinical evaluation	nerve sheath tumor	pathology	medical procedure
+clinical finding	disease	pathological state	malady	growth	pathology	function	procedure	anatomical pathology	functions	organ	lump	congenital malformation	somatic cell	head part
+clinical finding	disease	body structure	growth	malady	organ	anatomical structure	function	procedure	functions	pathological state	neuron	healthcare professional	protein	introduction
+clinical finding	disease	body structure	growth	anatomical structure	organ	malady	procedure	function	neuron	functions	protein	healthcare professional	pathological state	introduction
+disease	clinical finding	pathological state	malady	pain sensation	congenital malformation	infectious disease	congenital disease	pain	sensation	disease of lung	craniofacial pain	painful sensation	anatomical structure	growth
+body structure	clinical finding	anatomical structure	pathology	anatomical pathology	growth	procedure	disease	function	organ	birth defect	head part	pathological state	malady	functions
+disease	clinical finding	body structure	therapeutic procedure	growth	malady	organ	anatomical structure	function	functions	introduction	neuron	procedure	body part	pathological state
+clinical finding	disease	malady	sickness	pathological state	disorder	illness	ache	painful sensation	craniofacial pain	hurting	sentience	aching	obesity	pain sensation
+disease	malady	clinical finding	pathological state	disorder	sickness	illness	clinical symptom	state	nervous disorder	infectious disease	neurological disease	degenerative disorder	neurological disorder	respiratory disorder
+medicine	worker	disease	healthcare professional	practice of medicine	specialty	speciality	medical research	medical practitioner	specialization	specialisation	growth	procedure	specialism	research
+clinical finding	disease	malady	body structure	growth	organ	anatomical structure	healthcare professional	functions	function	pathological state	congenital malformation	worker	neuron	somatic cell
+clinical finding	disease	malady	anatomical structure	body structure	growth	pathology	anatomical pathology	pathological state	organ	function	procedure	body part	congenital malformation	neuron
+procedure	growth	clinical finding	disease	body structure	malady	organ	implantation	grafting procedure	defect	fenestration	pathology	congenital malformation	function	removal
+malady	disease	medical research	clinical finding	pathological state	research	diagnosing	disorder	illness	anatomical pathology	medicine	pathology	medical science	diagnosis	clinical diagnosis
+procedure	clinical finding	disease	pathological state	craniofacial pain	state	arrest	drug	therapeutic procedure	therapy	illness	function	ventilator	contractor	treatment
+malady	sickness	pathological state	disease	clinical finding	disorder	illness	clinical symptom	scale	mental disorder	procedure	sedation	intervention	psychiatric condition	folie
+clinical finding	growth	disease	body structure	anatomical structure	procedure	healthcare professional	function	malady	organ	neuron	functions	pathological state	protein	medical research
+clinical finding	pathological state	disease	malady	congenital malformation	growth	anatomical structure	sickness	illness	body structure	disorder	anatomical pathology	pathology	clinical symptom	neurological disease
+disease	malady	clinical finding	pathological state	pathology	anatomical structure	body structure	sickness	clinical symptom	illness	disorder	growth	function	mental disorder	anatomical pathology
+clinical finding	disease	pathological state	illness	sickness	disorder	respiratory disorder	state	vascular disease	trauma	degenerative disorder	neurological disease	nervous disorder	malady	clinical symptom
+clinical finding	disease	respiratory disorder	malady	pathological state	skin lesion	hereditary disease	disorder	congenital malformation	neurological lesion	anatomical structure	illness	congenital disease	pathology	neoplasm
+clinical finding	disease	malady	pathological state	clinical symptom	sickness	stimulation	mental disorder	function	illness	disorder	state	cardiovascular function	growth	nervous disorder
+disease	pathological state	illness	disorder	malady	sickness	clinical symptom	mental disorder	clinical finding	neurological disease	neurological disorder	nervous disorder	state	mental illness	stimulation
+disease	clinical finding	growth	malady	procedure	defect	anatomical structure	pathological state	pathology	function	sickness	anatomical pathology	congenital malformation	body structure	functions
+clinical finding	disease	body structure	growth	malady	anatomical structure	function	organ	functions	procedure	neuron	protein	pathological state	healthcare professional	therapeutic procedure
+drug	pathological state	malady	therapeutic procedure	clinical finding	intervention	disease	illness	growth	sickness	worker	enzyme	disturbance	function	therapy
+pathological state	clinical finding	disease	therapeutic procedure	malady	treatment	metabolism	intervention	body region	drug	body structure	function	growth	biological agent	procedure
+procedure	clinical finding	disease	clinical evaluation	pathological state	disorder	mental disorder	removal	perfusion pump	sickness	malady	protein	clinical symptom	stimulation	illness
+disease	disorder	defect	clinical finding	malady	pathological state	sickness	antigen	illness	enzyme	clinical symptom	sugar	function	mental disorder	procedure
+disease	clinical finding	malady	function	procedure	enzyme	functions	pathological state	body structure	therapeutic procedure	introduction	worker	organ	antigen	medical research
+clinical finding	disease	anatomical structure	malady	body structure	lump	anatomical pathology	pathology	growth	pathological state	organ	disease of lung	congenital malformation	medical research	functions
+disease	clinical finding	neurological lesion	congenital malformation	soft tissue lesion	infectious disease	disease of lung	fracture	respiratory disorder	malady	body structure	inflammation	neuropathy	injury	state
+disease	clinical finding	organ	malady	body structure	anatomical structure	growth	pathology	procedure	proliferation	damage	anatomical pathology	nerve sheath tumor	lump	pathological state
+clinical finding	clinical symptom	pathological state	disease	disorder	growth	state	sickness	mental disorder	illness	defect	function	intervention	malady	nervous disorder
+clinical finding	body structure	anatomical structure	growth	disease	anatomical pathology	procedure	organ	pathology	neuron	function	protein	pathological state	healthcare professional	therapeutic procedure
+clinical finding	disease	stimulation	procedure	sickness	disorder	mental disorder	pathology	mental illness	illness	intervention	pathological state	function	malady	state
+disease	clinical finding	body structure	malady	growth	pathology	anatomical structure	organ	congenital malformation	pathological state	function	neuron	body part	functions	medical research
+disease	clinical finding	body structure	growth	malady	function	healthcare professional	procedure	organ	anatomical structure	functions	worker	introduction	medical practitioner	medical research
+clinical finding	disease	growth	function	pathological state	functions	pathology	procedure	malady	organ	illness	anatomical pathology	cell	enzyme	damage
+pathological state	clinical finding	disease	body structure	specialized physician	anatomical structure	malady	illness	growth	procedure	healthcare professional	worker	function	state	craniofacial pain
+disease	clinical finding	malady	sickness	clinical symptom	pathological state	illness	disorder	state	craniofacial pain	defect	painful sensation	sentience	hurting	aching
+clinical finding	disease	body structure	growth	procedure	function	organ	medical research	malady	body part	healthcare professional	congenital malformation	therapeutic procedure	pathological state	worker
+disease	clinical finding	growth	body structure	malady	anatomical structure	organ	introduction	function	functions	protein	therapeutic procedure	healthcare professional	medical research	neuron
+disease	clinical finding	malady	body structure	anatomical structure	growth	function	organ	anatomical pathology	healthcare professional	pathological state	procedure	worker	protein	functions
+clinical finding	disease	malady	body structure	organ	procedure	introduction	macromolecule	anatomical structure	growth	body part	congenital malformation	pathological state	biomolecule	proliferation
+transplant	disease	clinical finding	transplantation	medical research	body structure	malady	anatomical structure	growth	pathology	procedure	neoplasm	anatomical pathology	tumor	research
+disease	clinical finding	body structure	growth	malady	anatomical structure	organ	function	procedure	functions	protein	neuron	therapeutic procedure	introduction	medical research
+clinical finding	malady	disease	anatomical structure	body structure	growth	anatomical pathology	therapeutic procedure	introduction	pathological state	organ	body part	procedure	medical research	pathology
+disease	clinical finding	disorder	sickness	malady	illness	mental disorder	pathological state	disturbance	lesion	clinical diagnosis	complication	medical science	pathology	clinical symptom
+clinical finding	disease	malady	pathological state	congenital malformation	pathology	soft tissue lesion	state	infectious disease	body structure	lump	damage	hereditary disease	sickness	respiratory disorder
+clinical finding	disease	growth	pathological state	intervention	function	protein	healthcare professional	body structure	malady	procedure	worker	functions	disturbance	antigen
+clinical finding	disease	malady	anatomical structure	body structure	congenital malformation	growth	anatomical pathology	organ	pathological state	therapeutic procedure	body part	protein	function	neuron
+therapeutic procedure	drug	disease	psychological science	clinical finding	intervention	pathological state	infectious disease	medicament	malady	treatment	therapy	medical aid	congenital malformation	intravenous sedation
+clinical finding	disease	body structure	anatomical structure	malady	pathology	pathological state	congenital malformation	surgical material	function	nerve sheath tumor	organ	injury	growth	lump
+clinical finding	disease	malady	growth	pathology	type of vessel	anatomical pathology	pathological state	body structure	congenital malformation	illness	anatomical structure	state	function	shunt
+clinical finding	disease	body structure	growth	malady	organ	procedure	healthcare professional	function	anatomical structure	functions	medical research	neuron	introduction	therapeutic procedure
+body structure	growth	medical research	research	clinical finding	medical science	anatomical pathology	medical practitioner	medical specialty	practice of medicine	pathology	procedure	disease	anatomical structure	branch of science
+disease	clinical finding	malady	congenital malformation	growth	body structure	function	pathological state	therapeutic procedure	organ	procedure	protein	infection	functions	macromolecule
+disease	clinical finding	malady	anatomical structure	pathological state	body structure	growth	pathology	anatomical pathology	function	medical research	organ	worker	therapeutic procedure	congenital malformation
+disease	clinical finding	body structure	growth	malady	organ	function	functions	procedure	introduction	anatomical structure	medical research	therapeutic procedure	neuron	neural structure
+disease	clinical finding	body structure	organ	procedure	growth	healthcare professional	function	introduction	anatomical structure	anatomical pathology	malady	clinical evaluation	medical research	congenital malformation
+disease	illness	disorder	pathological state	malady	sickness	clinical finding	medical research	research	functions	medical science	component	medical specialty	medical diagnosis	diagnosis
+clinical finding	disease	body structure	malady	growth	pathological state	procedure	anatomical structure	function	anatomical pathology	neuron	functions	organ	protein	healthcare professional
+sickness	pathological state	decrease	state	malady	disease	function	clinical finding	disorder	clinical symptom	illness	stimulation	growth	pain	vascular function
+procedure	body structure	anatomical structure	nerve sheath tumor	growth	pathology	proliferation	functions	perfusion pump	fenestration	anatomical pathology	biopsy	surgical repair	pathological state	organ
+body structure	anatomical structure	growth	anatomical pathology	pathology	surgical material	bone graft material	body material	vein	disease	procedure	fenestration	clinical finding	vasculature	organ
+clinical finding	disease	medical research	illness	disorder	malady	sickness	pathology	anatomical pathology	body structure	pathological state	clinical symptom	research	growth	firm
+disease	clinical finding	malady	pathological state	malignant tumor	malignancy	tumor	lump	growth	secondary tumor	pathology	neoplasm	anatomical structure	cancer	anatomical pathology
+procedure	medical research	monitoring procedure	screening	surgery	functions	sampling	intervention	screening procedure	clinical evaluation	growth	clinical finding	medical procedure	pathological state	function
+disease	clinical finding	body structure	congenital malformation	anatomical structure	lump	malady	pathology	injury	growth	pathological state	bone injury	organ	accidental injury	damage
+clinical finding	disease	malady	pathological state	experimental psychology	drug	congenital malformation	body structure	hurting	painful sensation	intervention	growth	mentation	enzyme	pathology
+disease	branch	clinical finding	chest	tube	anatomical structure	vein	cardiovascular structure	type of vessel	artery	vessel	vascular system	vasculature	disorder	shunt
+disease	clinical finding	body structure	anatomical structure	procedure	growth	anatomical pathology	pathology	malady	pathological state	repair	sickness	displacement	medicine	illness
+disease	malady	pathological state	clinical finding	sickness	craniofacial pain	painful sensation	illness	sentience	hurting	pain sensation	respiratory disorder	disorder	infectious disease	ache
+disease	clinical finding	malady	body structure	growth	anatomical structure	anatomical pathology	organ	medical research	pathological state	function	procedure	protein	therapeutic procedure	healthcare professional
+disease	clinical finding	malady	worker	healthcare professional	intervention	medical practitioner	medical doctor	organ	procedure	specialized physician	body structure	social scientist	congenital malformation	function
+body structure	disease	clinical finding	growth	malady	procedure	function	enzyme	anatomical structure	bodily function	protein	organ	worker	therapeutic procedure	antigen
+disease	malady	procedure	introduction	pathological state	sedation	intervention	therapeutic procedure	scale	fatness	macromolecule	surgery	clinical finding	enzyme	administration of substance
+clinical finding	disease	malady	body structure	growth	anatomical structure	organ	function	neuron	procedure	pathological state	introduction	anatomical pathology	functions	protein
+medical research	disease	body structure	functions	clinical finding	growth	procedure	function	pathology	research	malady	healthcare professional	anatomical structure	practice of medicine	medical practitioner
+disease	clinical finding	anatomical structure	body structure	malady	growth	anatomical pathology	procedure	function	organ	functions	medical research	therapeutic procedure	introduction	body part
+clinical finding	disease	pathological state	malady	drug	anatomical structure	intervention	body structure	congenital malformation	psychological science	therapeutic procedure	hurting	experimental psychology	worker	body part
+disease	procedure	clinical finding	malady	body structure	medical research	illness	functions	hospital environment	pathological state	intervention	pathology	hospital department	growth	function
+disease	clinical finding	malady	disorder	sickness	clinical symptom	state	nervous disorder	pathological state	illness	mental disorder	neurological disease	cardiac finding	neurological disorder	liver disease
+clinical finding	clinical symptom	disease	illness	state	disorder	damage	syndrome	nervous disorder	congenital disease	sickness	hereditary disease	neurological disorder	infection	pathology
+disease	clinical finding	malady	sickness	pathological state	disorder	illness	mental disorder	mental disturbance	intervention	state	congenital malformation	specifications	fatness	worker
+disease	clinical finding	anatomical structure	body structure	malady	congenital malformation	growth	organ	pathology	anatomical pathology	function	pathological state	procedure	body part	neuron
+disease	pathological state	clinical finding	procedure	organ	illness	malady	anatomical pathology	anatomical structure	growth	medical procedure	sickness	stimulation	intervention	worker
+clinical finding	anatomical structure	growth	body structure	organ	anatomical pathology	disease	malady	pathology	body part	infection	congenital malformation	conjunctive tissue	pathological state	procedure
+intervention	clinical finding	enzyme	malady	drug	disease	pathological state	therapeutic procedure	sickness	antigen	zinc	disturbance	diagnostic aid	function	worker
+disease	clinical finding	anatomical structure	malady	body structure	congenital malformation	growth	body part	organ	pathology	anatomical pathology	neuron	pathological state	introduction	function
+disease	clinical finding	inflammation	hereditary disease	congenital malformation	malady	injury	congenital disease	pathological state	state	body structure	damage	pathology	sickness	respiratory disorder
+disease	clinical finding	body structure	malady	growth	function	anatomical structure	procedure	organ	protein	pathological state	medical research	functions	healthcare professional	anatomical pathology
+disease	clinical finding	malady	body structure	anatomical structure	growth	procedure	organ	pathological state	protein	healthcare professional	function	medical research	therapeutic procedure	neuron
+clinical finding	disease	anatomical structure	body structure	organ	procedure	growth	healthcare professional	malady	function	protein	worker	introduction	neuron	medical practitioner
+disease	clinical finding	illness	malady	pathological state	disorder	sickness	growth	clinical diagnosis	medical diagnosis	medical research	pathology	body structure	component	medicine
+clinical finding	disease	respiratory disorder	illness	infectious disease	disease of lung	sickness	hereditary disease	congenital malformation	disorder	malady	inflammatory disorder	congenital disease	neoplasm	pathological state
+disease	clinical finding	growth	malady	body structure	anatomical structure	organ	function	introduction	procedure	therapeutic procedure	functions	neuron	pathological state	medical research
+clinical finding	pathological state	disease	malady	disturbance	growth	sickness	therapeutic procedure	worker	intervention	craniofacial pain	treatment	neurological finding	state	mental disturbance
+disease	clinical finding	malady	growth	body structure	anatomical structure	neuron	function	protein	procedure	healthcare professional	pathological state	functions	introduction	organ
+clinical finding	disease	growth	function	body structure	organ	procedure	pathological state	protein	neuron	anatomical structure	malady	functions	enzyme	medical science
+disease	clinical finding	malady	pathological state	urologic disease	sickness	growth	state	renal disorder	injury	trauma	nephrosis	uropathy	kidney failure	pathology
+disease	clinical finding	malady	body structure	growth	organ	anatomical structure	procedure	anatomical pathology	healthcare professional	congenital malformation	medical research	body part	pathological state	functions
+disease	clinical finding	body structure	anatomical structure	malady	pathology	pathological state	illness	sickness	lump	disorder	congenital malformation	clinical symptom	hereditary disease	liver disease
+body structure	anatomical structure	growth	pathology	clinical finding	disease	anatomical pathology	medical research	research	procedure	nervous system structure	pathological state	practice of medicine	organ	medical science
+clinical finding	disease	malady	body structure	congenital malformation	intervention	macromolecule	drug	pathology	pathological state	function	biopolymer	state	body part	biomolecule
+clinical finding	disease	body structure	malady	anatomical structure	growth	organ	function	neuron	procedure	functions	introduction	medical research	therapeutic procedure	pathological state
+clinical finding	disease	anatomical structure	growth	body structure	pathological state	lump	pathology	malady	organ	anatomical pathology	procedure	illness	tube	cardiovascular system
+clinical finding	disease	malady	pathological state	pathology	body structure	medical research	anatomical pathology	procedure	function	growth	congenital malformation	functions	state	sickness
+malady	clinical finding	disease	congenital malformation	pathological state	sickness	body structure	anatomical structure	state	growth	lump	pathology	anatomical pathology	neuroma	illness
+disease	pathological state	clinical finding	growth	malady	procedure	anatomical pathology	illness	intervention	medical research	worker	sickness	healthcare professional	functions	function
+disease	illness	clinical finding	disorder	malady	pathological state	clinical symptom	sickness	craniofacial pain	painful sensation	hurting	sentience	neurological finding	mentation	cerebration
+disease	clinical finding	respiratory disorder	congenital malformation	sickness	disease of lung	inflammatory disorder	infectious disease	body structure	vascular disease	hereditary disease	malady	congenital disease	neurological lesion	pathological state
+disease	clinical finding	pathology	disorder	function	anatomical pathology	malady	clinical symptom	growth	research	pathological state	medical research	functions	state	illness
+pathological state	disease	state	sickness	disorder	malady	clinical finding	illness	enzyme	antigen	physician	growth	protein	diagnosing	clinical diagnosis
+disease	malady	pathological state	clinical finding	illness	sickness	disorder	body structure	branch of science	medical research	accidental injury	pathology	research	anatomical pathology	medical science
+disease	clinical finding	malady	pathology	body structure	anatomical structure	lump	neoplasm	pathological state	nerve sheath tumor	proliferation	neuroma	congenital malformation	sickness	infection
+body structure	disease	clinical finding	anatomical structure	growth	organ	malady	function	healthcare professional	functions	medical research	neuron	protein	procedure	worker
+clinical finding	malady	disease	pathological state	malignant tumor	congenital malformation	pathology	neoplasm	abdominal mass	lump	respiratory disorder	sickness	anatomical structure	disorder	growth
+clinical finding	disease	pathological state	malady	illness	sickness	disorder	state	congenital malformation	growth	hereditary disease	body structure	pathology	neurological disease	congenital disease
+clinical finding	pathological state	disease	malady	function	neuropathy	sickness	clinical symptom	growth	body structure	peripheral nerve disease	functions	illness	disorder	procedure
+disease	clinical finding	body structure	malady	growth	anatomical structure	function	medical research	pathological state	organ	procedure	healthcare professional	introduction	therapeutic procedure	protein
+clinical finding	disease	drug	therapeutic procedure	psychological science	pathological state	craniofacial pain	therapy	malady	congenital malformation	specifications	macromolecule	intervention	antiprotozoal	worker
+disease	neoplasm	clinical finding	abdominal mass	cancer	malady	lump	malignant tumor	tumor	congenital malformation	growth	pathological state	respiratory disorder	pelvic mass	hamartoma
+clinical finding	disease	anatomical structure	body structure	pathology	malady	function	congenital malformation	growth	pathological state	organ	sickness	neuropathy	functions	peripheral nerve disease
+clinical finding	disease	malady	body structure	growth	anatomical structure	organ	function	pathological state	neuron	medical research	procedure	protein	introduction	functions
+medical research	procedure	technology	service	medicine	disease	clinical finding	surgery	practice of medicine	worker	healthcare professional	functions	surgical specialty	intervention	malady
+functions	disease	cardiovascular function	function	clinical finding	vascular function	procedure	research	malady	medical research	pathological state	practice of medicine	surgery	medical science	growth
+clinical finding	disease	malady	body structure	anatomical structure	congenital malformation	pathological state	healthcare professional	function	growth	pathology	organ	anatomical pathology	medical practitioner	state
+growth	disease	clinical finding	pathological state	body structure	procedure	pathology	malady	defect	illness	damage	malignancy	anatomical pathology	surgery	neurological lesion
+clinical finding	disease	body structure	growth	malady	anatomical structure	organ	function	procedure	pathological state	introduction	functions	neuron	therapeutic procedure	protein
+disease	clinical finding	malady	pathology	lump	congenital malformation	anatomical structure	soft tissue lesion	pathological state	body structure	skin lesion	body region	proliferation	neurological lesion	body part
+body structure	clinical finding	growth	disease	function	organ	procedure	healthcare professional	functions	anatomical structure	therapeutic procedure	malady	introduction	worker	protein
+service	medical research	rehabilitation service	disease	procedure	mental health service	intervention	healthcare services	surgical service	medicine	practice of medicine	functions	malady	surgery	clinical finding
+disease	disorder	clinical finding	malady	pathological state	neurological disorder	sickness	illness	peripheral nerve disease	state	nervous disorder	neurological disease	clinical symptom	stimulation	infectious disease
+disease	clinical finding	malady	body structure	pathology	organ	anatomical structure	growth	procedure	pathological state	neuron	enzyme	function	functions	congenital malformation
+disease	clinical finding	function	organ	protein	worker	body structure	pathology	procedure	medical research	anatomical structure	healthcare professional	congenital malformation	antigen	functions
+disease	pathological state	malady	therapeutic procedure	clinical finding	procedure	illness	intervention	enzyme	drug	specifications	disturbance	function	growth	metabolism
+disease	clinical finding	pathology	growth	body structure	anatomical pathology	function	malady	medical research	procedure	protein	organ	anatomical structure	research	enzyme
+clinical finding	pathological state	disease	malady	sickness	disorder	clinical symptom	nervous disorder	state	illness	mental disorder	peripheral nerve disease	body structure	neurological disease	stimulation
+clinical finding	disease	protein	antigen	intervention	procedure	tumor-associated antigen	neuron	pathology	malady	cell	growth	organ	anatomical pathology	worker
+worker	disease	medical practitioner	healthcare professional	medicine	procedure	practice of medicine	medical research	medical science	medical specialty	pathology	protein	specialisation	intervention	research
+disease	clinical finding	body structure	malady	anatomical structure	congenital malformation	growth	organ	pathological state	function	functions	healthcare professional	pathology	neuron	body part
+disorder	illness	disease	clinical symptom	clinical finding	pathological state	malady	sickness	neurological disorder	nervous disorder	mental disorder	function	stimulation	functions	clinical diagnosis
+disease	procedure	intervention	malady	medical practitioner	physician	medical research	healthcare professional	protein	macromolecule	antigen	enzyme	polymer	biomolecule	clinical finding
+disease	clinical finding	transplantation	pathology	anatomical pathology	procedure	pathological state	medical procedure	transplant	growth	surgical process	malady	surgical material	surgical procedure	function
+disease	intervention	clinical finding	growth	protein antigen	function	protein	procedure	enzyme	medical research	worker	antigen	congenital malformation	malady	craniofacial pain
+clinical finding	disease	body structure	malady	growth	anatomical structure	organ	procedure	functions	neuron	function	pathological state	healthcare professional	medical research	introduction
+body structure	therapeutic procedure	malady	disease	clinical finding	function	organ	intervention	anatomical structure	introduction	procedure	growth	functions	protein	enzyme
+disease	clinical finding	anatomical structure	body structure	growth	healthcare professional	therapeutic procedure	malady	health care	worker	congenital malformation	organ	procedure	medical practitioner	medical care
+clinical finding	disease	healthcare professional	worker	medical practitioner	growth	procedure	anatomical pathology	pathology	social worker	malady	medical research	medical doctor	intervention	function
+clinical finding	disease	intervention	malady	enzyme	protein	pathological state	growth	procedure	state	function	drug	antigen	reaction	disturbance
+clinical finding	disease	body structure	anatomical structure	growth	organ	pathological state	function	procedure	malady	neuron	body part	head part	congenital malformation	anatomical pathology
+clinical finding	growth	body structure	anatomical pathology	procedure	disease	pathology	functions	function	vascular function	pathological state	cardiovascular function	healthcare professional	malady	medical research
+clinical finding	disease	hospital environment	malady	pathological state	procedure	growth	hospital department	pathology	illness	medical research	anatomical pathology	healthcare professional	worker	department
+clinical finding	disease	congenital malformation	malady	body structure	anatomical structure	pathology	pathological state	body part	organ	soft tissue lesion	body region	sickness	hole	infection
+clinical finding	anatomical structure	body structure	disease	worker	growth	organ	healthcare professional	procedure	function	introduction	anatomical pathology	malady	medical practitioner	neuron
+growth	somatic cell	cell	clinical finding	body structure	procedure	functions	disease	function	neuron	healthcare professional	malady	vascular function	worker	medical practitioner
+clinical finding	disease	body structure	growth	organ	malady	anatomical structure	function	protein	procedure	functions	medical research	neuron	healthcare professional	therapeutic procedure
+growth	clinical finding	body structure	disease	organ	healthcare professional	neuron	anatomical structure	functions	medical research	function	procedure	nerve cell	pathological state	somatic cell
+clinical finding	growth	disease	body structure	function	anatomical structure	organ	functions	procedure	malady	healthcare professional	neuron	pathological state	introduction	medical research
+disease	clinical finding	malady	anatomical structure	body structure	growth	organ	anatomical pathology	congenital malformation	healthcare professional	body part	medical research	pathological state	protein	function
+clinical finding	disease	malady	sickness	illness	disorder	pathological state	ache	craniofacial pain	painful sensation	hurting	clinical symptom	sentience	aching	pain sensation
+research	healthcare professional	medical practitioner	medical research	medical science	medicine	worker	practice of medicine	medical man	medical specialty	disease	branch of science	clinical finding	malady	procedure
+clinical finding	disease	body structure	growth	anatomical structure	malady	organ	neuron	congenital malformation	function	healthcare professional	functions	body part	introduction	somatic cell
+disease	clinical finding	malady	body structure	growth	introduction	therapeutic procedure	anatomical structure	function	body part	medical research	organ	pathological state	procedure	worker
+clinical finding	disease	pathological state	malady	function	growth	therapeutic procedure	functions	procedure	intervention	disturbance	cardiovascular function	bodily function	worker	enzyme
+malady	scale	sickness	pathological state	disease	clinical finding	disorder	illness	clinical symptom	procedure	sedation	intervention	administration of medication	therapy	medicine
+clinical finding	body structure	healthcare professional	anatomical structure	disease	growth	organ	worker	medical practitioner	neuron	function	procedure	anatomical pathology	functions	pathology
+pathological state	illness	sickness	clinical finding	disease	disorder	clinical symptom	malady	state	body structure	growth	procedure	anatomical structure	pathology	anatomical pathology
+bond	disease	radical	malady	attraction	pathological state	nonapeptide	amide	building block	octapeptide	hexapeptide	chemical bond	decapeptide	undecapeptide	atom
+disease	clinical finding	malady	pathological state	growth	congenital malformation	body structure	lump	sickness	illness	anatomical structure	pathology	anatomical pathology	neurological disease	disorder
+clinical finding	disease	disorder	sickness	malady	respiratory disorder	pathological state	illness	state	infectious disease	vascular disease	neurological disease	metabolic disease	degenerative disorder	nervous disorder
+clinical finding	malady	disease	congenital malformation	body structure	growth	pathological state	pathology	infectious disease	therapeutic procedure	congenital disease	organ	infection	neuron	anatomical structure
+disease	clinical finding	peripheral nerve disease	malady	congenital malformation	neuropathy	pathological state	sickness	vascular disease	neurological disease	infectious disease	illness	degenerative disorder	damage	clinical symptom
+disease	clinical finding	congenital malformation	malady	body structure	body part	anatomical structure	growth	pathology	organ	anatomical pathology	animal tissue	disease of lung	procedure	conjunctive tissue
+disease	clinical finding	respiratory disorder	congenital malformation	pathological state	illness	clinical symptom	disorder	function	malady	nervous disorder	state	neurological disease	growth	procedure
+clinical finding	procedure	disease	functions	pathological state	research	growth	medical research	component	vascular function	disorder	practice of medicine	surgery	cardiovascular function	branch of science
+disease	clinical finding	growth	healthcare professional	pathology	organ	body structure	procedure	function	malady	anatomical structure	medical practitioner	congenital malformation	functions	worker
+clinical finding	disease	congenital malformation	anatomical structure	pathological state	malady	growth	pathology	disease of lung	body structure	lump	body part	infection	anatomical pathology	organ
+disease	clinical finding	respiratory disorder	inflammatory disorder	craniofacial pain	illness	malady	sickness	infectious disease	disease of lung	somatic sensation	painful sensation	neurological finding	state	sentience
+clinical finding	disease	malady	pathological state	respiratory disorder	disorder	sickness	illness	state	craniofacial pain	infectious disease	disease of lung	soft tissue lesion	neoplasm	congenital malformation
+malady	pathological state	sickness	disease	disorder	illness	state	clinical finding	disturbance	complication	mental disturbance	psychiatric condition	mental disorder	clinical diagnosis	growth
+disease	malady	pathological state	clinical finding	disorder	sickness	craniofacial pain	illness	clinical symptom	state	congenital malformation	mental disorder	hurting	drug	sentience
+procedure	pathology	clinical finding	growth	disease	anatomical pathology	malady	functions	anatomical structure	function	body structure	medical research	pathological state	research	cardiovascular function
+pathological state	clinical finding	disease	anatomical structure	body structure	body part	growth	malady	organ	mentation	introduction	illness	fan	experimental psychology	state
