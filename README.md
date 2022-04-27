@@ -104,17 +104,6 @@ To be added later on.
 
 ```
 
-## Contact
-
-
-Maulik Parmar
-
-Computer Science Department
-
-The University of British Columbia
-
-https://cmps.ok.ubc.ca/about/contact/maulik-parmar/
-
 ## License
 
 Licensed under the MIT License.
