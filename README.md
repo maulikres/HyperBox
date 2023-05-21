@@ -100,7 +100,20 @@ Accepted at he 13th International Conference on Language Resources and Evaluatio
 
 ```
 
-To be added later on.
+@inproceedings{parmar-narayan-2022-hyperbox,
+    title = "{H}yper{B}ox: A Supervised Approach for Hypernym Discovery using Box Embeddings",
+    author = "Parmar, Maulik  and
+      Narayan, Apurva",
+    booktitle = "Proceedings of the Thirteenth Language Resources and Evaluation Conference",
+    month = jun,
+    year = "2022",
+    address = "Marseille, France",
+    publisher = "European Language Resources Association",
+    url = "https://aclanthology.org/2022.lrec-1.652",
+    pages = "6069--6076",
+    abstract = "Hypernymy plays a fundamental role in many AI tasks like taxonomy learning, ontology learning, etc. This has motivated the development of many automatic identification methods for extracting this relation, most of which rely on word distribution. We present a novel model HyperBox to learn box embeddings for hypernym discovery. Given an input term, HyperBox retrieves its suitable hypernym from a target corpus. For this task, we use the dataset published for SemEval 2018 Shared Task on Hypernym Discovery. We compare the performance of our model on two specific domains of knowledge: medical and music. Experimentally, we show that our model outperforms existing methods on the majority of the evaluation metrics. Moreover, our model generalize well over unseen hypernymy pairs using only a small set of training data.",
+}
+
 
 ```
 
