@@ -5,6 +5,8 @@ The task and dataset details can be found here: https://competitions.codalab.org
 
 The code for box embedding has been adapted from: https://github.com/ralphabb/BoxE. 
 
+#### Alternative google drive link to download models and data: https://drive.google.com/drive/folders/1wKgih_YJEbU04WJh5yXQhNmvBvEz7CYf?usp=sharing
+
 ## Getting started:
 
 Clone this repo to your machine.
